@@ -1,0 +1,60 @@
+<resources>
+    <string name="app_name" translatable="false">Health+</string>
+    <string name="slogan">For a healthier life!</string>
+    <string name="news">News</string>
+    <string name="tu_van">Advisory</string>
+    <string name="profile">Personal information</string>
+    <string name="doctor">Doctor</string>
+    <string name="setting">Setting</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="exchange">Exchange</string>
+    <string name="sent">Sent</string>
+    <string name="health">Health</string>
+    <string name="nutrition">Nutrition</string>
+    <string name="image">Image</string>
+    <string name="guest_care">Guest Care</string>
+    <string name="hotline">Hotline</string>
+    <string name="website" translatable="false">Website</string>
+    <string name="name">Full name</string>
+    <string name="date_of_birth">Date of birth</string>
+    <string name="phone_number">Phone number</string>
+    <string name="email" translatable="false">Email</string>
+    <string name="address">Address</string>
+    <string name="save">Save</string>
+    <string name="professional">Professional</string>
+    <string name="hello">Hello! I\'m a health assistant</string>
+    <string name="empty">Empty</string>
+    <string name="chuc">Wish you a good day!</string>
+    <string name="login">Login</string>
+    <string name="logout">Logout</string>
+    <string name="userName">UserName</string>
+    <string name="password">Password</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="other">Orther</string>
+    <string name="notice">Notice</string>
+    <string name="advice_rep">Advice returned</string>
+    <string name="apply_for_advice">Apply for advice</string>
+    <string name="gender">Gender</string>
+    <string name="create_inquiries">Create inquiries</string>
+    <string name="inquiries_list">Inquiries require list</string>
+    <string name="records_list">Records list</string>
+    <string name="records_detail">Record detail</string>
+    <string name="records_detail_doctor">Record detail from doctor</string>
+
+    <string name="doctor_info">Doctor information</string>
+    <string name="patient_info">Patient information</string>
+    <string name="patient_diagnosis">Diagnosis, tips, prescriptions from doctor</string>
+
+    <string name="doctor_diagnosis">Doctor diagnosis</string>
+    <string name="age">Age</string>
+    <string name="patient_name">Patient name</string>
+    <string name="patient_content">The disease requires diagnosis</string>
+    <string name="patient_note">Tips</string>
+    <string name="patient_prescriptions">Prescriptions</string>
+    <string name="diagnosis">Diagnosis</string>
+
+    <string name="b_name">Sick name</string>
+
+</resources>

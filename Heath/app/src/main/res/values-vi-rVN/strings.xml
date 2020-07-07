@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="slogan">Vì một cuộc sống khỏe mạnh hơn!</string>
+    <string name="news">Tin tức</string>
+    <string name="tu_van">Tư vấn</string>
+    <string name="profile">Thông tin cá nhân</string>
+    <string name="doctor">Bác sĩ</string>
+    <string name="setting">Cài đặt</string>
+    <string name="title">Tiêu đề</string>
+    <string name="description">Mô tả</string>
+    <string name="exchange">Trao đổi</string>
+    <string name="sent">Gửi</string>
+    <string name="health">Sức khỏe</string>
+    <string name="nutrition">Dinh dưỡng</string>
+    <string name="image">Hình ảnh</string>
+    <string name="guest_care">Chăm sóc khách hàng</string>
+    <string name="hotline">Đường dây nóng</string>
+    <string name="name">Họ tên</string>
+    <string name="date_of_birth">Ngày sinh</string>
+    <string name="phone_number">Số điện thoại</string>
+    <string name="address">Địa chỉ</string>
+    <string name="save">Lưu</string>
+    <string name="professional">Chuyên môn</string>
+    <string name="hello">Xin chào! Mình là trợ lý sức khỏe Health+.</string>
+    <string name="empty">Bạn chưa có tư vấn nào</string>
+    <string name="chuc">Chúc bạn một ngày tốt lành!</string>
+    <string name="login">Đăng nhập</string>
+    <string name="logout">Đăng xuất</string>
+    <string name="userName">Tên đăng nhập</string>
+    <string name="password">Mật khẩu</string>
+    <string name="gender">Giới tính</string>
+    <string name="male">Nam</string>
+    <string name="female">Nữ</string>
+    <string name="other">Khác</string>
+    <string name="notice">Thông báo</string>
+    <string name="advice_rep">Tư vấn trả về</string>
+    <string name="apply_for_advice">Xin tư vấn</string>
+    <string name="create_inquiries">Tạo tư vấn</string>
+    <string name="inquiries_list">Danh sách yêu cầu tư vấn</string>
+    <string name="records_list">Danh sách tư vấn của bác sĩ</string>
+    <string name="records_detail">Chi tiết tư vấn</string>
+    <string name="records_detail_doctor">Chi tiết tư vấn từ bác sĩ</string>
+
+    <string name="doctor_info">Thông tin bác sĩ</string>
+    <string name="patient_info">Thông tin bệnh nhân</string>
+    <string name="patient_diagnosis">Chẩn đoán, lời khuyên, đơn thuốc từ bác sĩ</string>
+
+    <string name="doctor_diagnosis">Bác sĩ chẩn đoán</string>
+    <string name="age">Tuổi</string>
+    <string name="patient_name">Tên bệnh nhận</string>
+    <string name="patient_content">Bệnh cần chẩn đoán</string>
+    <string name="patient_note">Tư vấn</string>
+    <string name="patient_prescriptions">Kê đơn thuốc</string>
+
+    <string name="diagnosis">Chẩn đoán</string>
+
+    <string name="b_name">Tên bệnh</string>
+</resources>

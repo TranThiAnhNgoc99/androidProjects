@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.example.ngoctta999123.heath">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/appp"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name=".Activities.Records.RecordsActivity"
+            android:parentActivityName=".Activities.MainActivity"></activity>
+        <activity android:name=".Activities.NoticeActivity" />
+        <activity android:name=".Activities.DoctorActivity" />
+        <activity android:name=".Activities.Profile.ProfileActivity" />
+        <activity android:name=".Activities.Login.LoginActivity"></activity>
+        <activity android:name=".Activities.tvrepActivity" />
+        <activity
+            android:name=".Activities.Inquiry.CreateInquiriActivity"
+            android:parentActivityName=".Activities.Inquiry.InquiriesActivity" />
+        <activity
+            android:name=".Activities.Inquiry.InquiriesActivity"
+            android:parentActivityName=".Activities.MainActivity" />
+        <activity android:name=".Activities.MainActivity"></activity>
+        <activity android:name=".Activities.SplashScreen">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".Activities.Records.RecordDetailActivity"
+            android:parentActivityName=".Activities.Records.RecordsActivity"></activity>
+    </application>
+
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.CAMERA" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+</manifest>

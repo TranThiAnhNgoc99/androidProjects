@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:padding="10dp"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/customlistview">
+    <LinearLayout
+        android:paddingBottom="10dp"
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <ImageView
+            android:id="@+id/imageViewHinhtv"
+            android:background="#813FCABD"
+            android:layout_width="90dp"
+            android:layout_height="90dp"
+            android:padding="10dp"
+            app:srcCompat="@mipmap/dinh_duong" />
+
+        <LinearLayout
+            android:layout_toRightOf="@+id/imageViewHinhtv"
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <TextView
+                android:id="@+id/txtId"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:padding="5dp"
+                android:text="id:18"
+                android:textColor="#000000"
+                android:textStyle="bold"
+                android:textSize="18sp"/>
+            <TextView
+                android:maxLines="2"
+                android:id="@+id/txtContent"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:padding="5dp"
+                android:text="Đau bụng quá đi"
+                android:textColor="@color/colorAccent1"
+                android:textStyle="bold"
+                android:textSize="18sp"/>
+        </LinearLayout>
+    </LinearLayout>
+
+
+</RelativeLayout>
